@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\codes\\Course 3\\Sem 1\\OSiSP\\Lab2\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE09225F-DEAB-4202-BC09-0F4C389E539E}|Lab2\\Lab2.vcxproj|D:\\codes\\Course 3\\Sem 1\\OSiSP\\Lab2\\Lab2\\Lab2\\Lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE09225F-DEAB-4202-BC09-0F4C389E539E}|Lab2\\Lab2.vcxproj|solutionrelative:Lab2\\Lab2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 283,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab2.cpp",
+              "DocumentMoniker": "D:\\codes\\Course 3\\Sem 1\\OSiSP\\Lab2\\Lab2\\Lab2\\Lab2.cpp",
+              "RelativeDocumentMoniker": "Lab2\\Lab2.cpp",
+              "ToolTip": "D:\\codes\\Course 3\\Sem 1\\OSiSP\\Lab2\\Lab2\\Lab2\\Lab2.cpp",
+              "RelativeToolTip": "Lab2\\Lab2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-12T12:27:29.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
